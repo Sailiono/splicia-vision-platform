@@ -1,5 +1,7 @@
 # Architecture
 
+> **Status: proposed Phase2 architecture.** The modules below define design responsibilities and integration boundaries; they are not implementation or performance claims.
+
 ## Design goals
 
 The platform is organized around four properties:

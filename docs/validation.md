@@ -1,5 +1,7 @@
 # Validation Plan
 
+> **Status: planned verification contract.** No quantitative performance result is claimed in this document.
+
 The verification strategy treats alignment quality, timing, safety, and reproducibility as separate questions.
 
 ## Measurement contract

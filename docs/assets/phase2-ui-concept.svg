@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Splicia Phase 2 UI concept</title>
+  <desc id="desc">A planned industrial vision dashboard framework using abstract placeholders and mock data, not a product screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111d"/><stop offset="1" stop-color="#101d2d"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132238"/><stop offset="1" stop-color="#0c1726"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity=".35"/></filter>
+    <style>
+      .t{font-family:Inter,Arial,sans-serif;fill:#e9f4ff}.m{font-family:Inter,Arial,sans-serif;fill:#8fa9c2}.c{fill:#53d8c4}.a{fill:#ffb761}.p{fill:url(#panel);stroke:#28435f;stroke-width:2}.label{font:600 18px Inter,Arial,sans-serif;letter-spacing:1.5px}.small{font:14px Inter,Arial,sans-serif}.num{font:700 28px Inter,Arial,sans-serif}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="36" y="28" width="1528" height="74" rx="16" class="p" filter="url(#shadow)"/>
+  <text x="68" y="62" class="t label">SPICIA / PHASE 2 UI CONCEPT</text>
+  <text x="68" y="86" class="m small">PLANNED UI · NOT A PRODUCT SCREENSHOT</text>
+  <rect x="1024" y="47" width="114" height="38" rx="19" fill="#183a43"/><text x="1081" y="72" text-anchor="middle" class="c small">LIVE</text>
+  <text x="1195" y="72" class="m small">TUNE</text><text x="1285" y="72" class="m small">REPORT</text>
+  <rect x="1420" y="48" width="116" height="36" rx="10" fill="#392f22"/><circle cx="1443" cy="66" r="6" class="a"/><text x="1460" y="72" class="a small">SIMULATION</text>
+
+  <g filter="url(#shadow)">
+    <rect x="36" y="124" width="978" height="454" rx="18" class="p"/>
+    <text x="62" y="159" class="t label">DUAL-VIEW WORKSPACE</text>
+    <text x="914" y="159" text-anchor="end" class="m small">ABSTRACT PLACEHOLDERS</text>
+    <rect x="62" y="182" width="449" height="350" rx="12" fill="#08111c" stroke="#24405a"/>
+    <rect x="539" y="182" width="449" height="350" rx="12" fill="#08111c" stroke="#24405a"/>
+    <text x="84" y="212" class="m small">CAMERA A / MOCK VIEW</text><text x="561" y="212" class="m small">CAMERA B / MOCK VIEW</text>
+    <g stroke="#355775" stroke-width="2" opacity=".7"><path d="M286 232v250M161 357h250"/><path d="M763 232v250M638 357h250"/></g>
+    <g fill="none" stroke="#53d8c4" stroke-width="5"><path d="M112 337 C210 320 270 345 456 332"/><path d="M589 367 C700 348 782 382 936 354"/></g>
+    <g fill="none" stroke="#ffb761" stroke-width="3" stroke-dasharray="9 8"><path d="M112 368 C230 350 302 375 456 362"/><path d="M589 337 C690 320 790 350 936 324"/></g>
+    <circle cx="286" cy="357" r="34" fill="none" stroke="#89a4bd" stroke-dasharray="5 6"/><circle cx="763" cy="357" r="34" fill="none" stroke="#89a4bd" stroke-dasharray="5 6"/>
+    <rect x="62" y="544" width="926" height="2" fill="#203950"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="1038" y="124" width="526" height="454" rx="18" class="p"/>
+    <text x="1064" y="159" class="t label">ALIGNMENT ERROR</text><text x="1519" y="159" text-anchor="end" class="a small">MOCK DATA</text>
+    <g stroke="#29445d" stroke-width="1"><path d="M1080 216h438M1080 278h438M1080 340h438M1080 402h438"/><path d="M1080 216v248M1190 216v248M1300 216v248M1410 216v248M1518 216v248"/></g>
+    <path d="M1080 244 C1160 270 1190 315 1245 327 S1340 375 1390 389 S1470 421 1518 430" fill="none" stroke="#53d8c4" stroke-width="4"/>
+    <path d="M1080 289 C1160 300 1204 287 1256 346 S1362 371 1414 411 S1474 399 1518 437" fill="none" stroke="#ffb761" stroke-width="3"/>
+    <circle cx="1518" cy="430" r="6" class="c"/><circle cx="1518" cy="437" r="6" class="a"/>
+    <text x="1080" y="493" class="m small">error trend / simulated samples</text>
+    <text x="1080" y="532" class="t num">—</text><text x="1120" y="529" class="m small">final error</text>
+    <text x="1300" y="532" class="t num">—</text><text x="1340" y="529" class="m small">convergence</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="36" y="602" width="978" height="220" rx="18" class="p"/>
+    <text x="62" y="638" class="t label">PLANNED AXIS &amp; STATE PANEL</text>
+    <g transform="translate(62 662)">
+      <rect width="136" height="118" rx="12" fill="#0a1624" stroke="#28435f"/><text x="18" y="32" class="m small">LEFT X</text><text x="18" y="70" class="t num">SIM</text><rect x="18" y="90" width="98" height="7" rx="3" fill="#193247"/><rect x="18" y="90" width="63" height="7" rx="3" class="c"/>
+      <g transform="translate(154)"><rect width="136" height="118" rx="12" fill="#0a1624" stroke="#28435f"/><text x="18" y="32" class="m small">LEFT Y</text><text x="18" y="70" class="t num">SIM</text><rect x="18" y="90" width="98" height="7" rx="3" fill="#193247"/><rect x="18" y="90" width="46" height="7" rx="3" class="c"/></g>
+      <g transform="translate(308)"><rect width="136" height="118" rx="12" fill="#0a1624" stroke="#28435f"/><text x="18" y="32" class="m small">RIGHT X</text><text x="18" y="70" class="t num">SIM</text><rect x="18" y="90" width="98" height="7" rx="3" fill="#193247"/><rect x="18" y="90" width="72" height="7" rx="3" class="a"/></g>
+      <g transform="translate(462)"><rect width="136" height="118" rx="12" fill="#0a1624" stroke="#28435f"/><text x="18" y="32" class="m small">RIGHT Y</text><text x="18" y="70" class="t num">SIM</text><rect x="18" y="90" width="98" height="7" rx="3" fill="#193247"/><rect x="18" y="90" width="54" height="7" rx="3" class="a"/></g>
+      <g transform="translate(616)"><rect width="298" height="118" rx="12" fill="#0a1624" stroke="#28435f"/><text x="20" y="32" class="m small">PROPOSED STATE</text><text x="20" y="68" class="t label">FINE ALIGN</text><circle cx="258" cy="59" r="13" fill="#183a43" stroke="#53d8c4"/><text x="20" y="98" class="m small">safe-stop and fallback designed</text></g>
+    </g>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="1038" y="602" width="526" height="220" rx="18" class="p"/>
+    <text x="1064" y="638" class="t label">OPERATOR CONTROLS</text>
+    <rect x="1064" y="666" width="220" height="54" rx="12" fill="#183a43" stroke="#53d8c4"/><text x="1174" y="700" text-anchor="middle" class="c label">START SIMULATION</text>
+    <rect x="1300" y="666" width="238" height="54" rx="12" fill="#182536" stroke="#46617a"/><text x="1419" y="700" text-anchor="middle" class="m label">SAFE STOP</text>
+    <rect x="1064" y="741" width="474" height="51" rx="12" fill="#0a1624" stroke="#28435f"/><text x="1084" y="773" class="m small">Profile: Phase2 concept   ·   Evidence: none attached</text>
+  </g>
+
+  <text x="800" y="866" text-anchor="middle" class="m small">Concept only — algorithms, closed-loop control, and production performance are not claimed.</text>
+</svg>
